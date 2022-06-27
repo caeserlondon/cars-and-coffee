@@ -1,0 +1,10 @@
+.container {
+	margin: 60px auto;
+	margin-bottom: 150px;
+	max-width: 960px;
+	padding: 0 30px;
+}
+
+.container h1 {
+	color: var(--primary-color);
+}
