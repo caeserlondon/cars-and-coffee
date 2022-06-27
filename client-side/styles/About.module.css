@@ -1,0 +1,4 @@
+.about h1,
+.about h3 {
+	color: var(--secondary-color);
+}
