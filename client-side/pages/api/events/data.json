@@ -2,7 +2,7 @@
 	"events": [
 		{
 			"id": "1",
-			"name": "Car And Coffee In Hyde Park",
+			"name": "Cars And Coffee In Hyde Park",
 			"slug": "hyde-park-august",
 			"venue": "The Serpentine",
 			"address": "W Carriage Dr, London W2 2UH",
@@ -10,22 +10,10 @@
 			"date": "August 28, 2022",
 			"time": "10:00 AM BST",
 			"description": "Featuring a postcard location for vintage cars lovers at the heart of the capital. this event will feature over 70 vintage cars.",
-			"image": "/images/events/hydepark.jpg"
+			"image": "/images/events/hydepark.jpeg"
 		},
 		{
 			"id": "2",
-			"name": "Car And Coffee In Bromly",
-			"slug": "bromley-september",
-			"venue": "Bromley Park",
-			"address": "1 Glassmill Ln, Bromley BR2 0EJ",
-			"theme": "Classic Cars",
-			"date": "September 18, 2022",
-			"time": "10:00 AM BST",
-			"description": "Featuring a postcard location for classic cars lovers in London Borough of Bromley. this event will feature over 100 classic cars.",
-			"image": "/images/events/bromley.jpg"
-		},
-		{
-			"id": "3",
 			"name": "Concours Of Elegance",
 			"slug": "concourse-october",
 			"venue": "Hampton Court Palace",
@@ -34,10 +22,10 @@
 			"date": "October 09, 2022",
 			"time": "10:00 AM BST",
 			"description": "Featuring a postcard location for vintage cars lovers in the London Borough of Richmond upon Thames, this event will feature over 120 vintage cars.",
-			"image": "/images/events/elegance.jpg"
+			"image": "/images/events/elegance.jpeg"
 		},
 		{
-			"id": "4",
+			"id": "3",
 			"name": "Donington Park Circuit",
 			"slug": "donington-october",
 			"venue": "Donington Park Circuit",
@@ -46,10 +34,10 @@
 			"date": "October 23, 2022",
 			"time": "10:00 AM BST",
 			"description": "Featuring a postcard location for raceing cars lovers located near Castle Donington in Leicestershire, this event will feature over 90 racing cars.",
-			"image": "/images/events/donington.jpg"
+			"image": "/images/events/donington.jpeg"
 		},
 		{
-			"id": "5",
+			"id": "4",
 			"name": "Goodwood Festival of Speed",
 			"slug": "goodwood-november",
 			"venue": "Goodwood House",
@@ -58,11 +46,11 @@
 			"date": "November 13, 2022",
 			"time": "10:00 AM GMT",
 			"description": "The Goodwood Festival of Speed is an annual motorsports festival featuring modern and historic motor racing vehicles taking part in a hill climb and other events, held in the grounds of Goodwood House",
-			"image": "/images/events/goodwood.jpg"
+			"image": "/images/events/goodwood.jpeg"
 		},
 		{
-			"id": "6",
-			"name": "Car And Coffee In Wimbledon",
+			"id": "5",
+			"name": "Cars And Coffee In Wimbledon",
 			"slug": "wimbledon-november",
 			"venue": "Wimbledon Park",
 			"address": "Home Park Rd, London SW19 8AU",
@@ -70,10 +58,10 @@
 			"date": "November 27, 2022",
 			"time": "10:00 AM GMT",
 			"description": "Featuring a postcard location for classic cars lovers in London Borough of Wimbledon. this event will feature over 65 classic cars.",
-			"image": "/images/events/wimbledon.jpg"
+			"image": "/images/events/wimbledon.jpeg"
 		},
 		{
-			"id": "7",
+			"id": "6",
 			"name": "Cars & coffee At Silverstone",
 			"slug": "silverstonte-februray",
 			"venue": "Silverstone Circuit",
@@ -82,10 +70,10 @@
 			"date": "February 12, 2023",
 			"time": "10:00 AM GMT",
 			"description": "Cars and Coffee at the home of the British Grand Prix,. this event will feature over 140 racing and sport cars.",
-			"image": "/images/events/silverstone.jpg"
+			"image": "/images/events/silverstone.jpeg"
 		},
 		{
-			"id": "8",
+			"id": "7",
 			"name": "Old Fords Rally",
 			"slug": "ford-december",
 			"venue": "Ford Heritage Centre",
@@ -94,19 +82,31 @@
 			"date": "December 11, 2022",
 			"time": "10:00 AM GMT",
 			"description": "Featuring a gathering for classic ford lovers in Dagenham. this event will feature over 40 classic fords.",
-			"image": "/images/events/fords.jpg"
+			"image": "/images/events/fords.jpeg"
 		},
 		{
-			"id": "9",
+			"id": "8",
 			"name": "Lotus Cars And Coffee In Bromly",
 			"slug": "bromley-march",
 			"venue": "Bromley Park",
 			"address": "1 Glassmill Ln, Bromley BR2 0EJ",
 			"theme": "Lotus Cars",
 			"date": "March 05, 2023",
-			"time": "10:00 AM BST",
+			"time": "10:00 AM GMT",
 			"description": "Featuring a postcard location for Lotus cars lovers in London Borough of Bromley. this event will feature over 30 Lotus cars.",
-			"image": "/images/events/lotus.jpg"
+			"image": "/images/events/lotus.jpeg"
+		},
+		{
+			"id": "9",
+			"name": "Cars And Coffee In Bromly",
+			"slug": "bromley-march",
+			"venue": "Bromley Park",
+			"address": "1 Glassmill Ln, Bromley BR2 0EJ",
+			"theme": "Classic Cars",
+			"date": "March 26, 2023",
+			"time": "10:00 AM GMT",
+			"description": "Featuring a postcard location for classic cars lovers in London Borough of Bromley. this event will feature over 100 classic cars.",
+			"image": "/images/events/bromley.jpeg"
 		}
 	]
 }
