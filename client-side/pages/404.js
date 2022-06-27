@@ -13,7 +13,7 @@ export default function NotFoundPage() {
 				</h1>
 				<h3>We are sorry, But the page you are looking for does not exist. </h3>
 				<Link href='/'>
-					<a className='btn-grad'>Back To The Main Page</a>
+					<a className='btn'>Back To The Main Page</a>
 				</Link>
 			</div>
 		</Layout>
