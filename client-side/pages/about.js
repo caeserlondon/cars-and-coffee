@@ -1,4 +1,5 @@
 import Layout from '@/components/Layout'
+import Link from 'next/link'
 import styles from '@/styles/About.module.css'
 
 export default function AboutPage() {
@@ -89,6 +90,9 @@ export default function AboutPage() {
 					</a>
 				</p>
 			</div>
+			<Link href='/'>
+				<a className='btn-block'>Back To The Main Page</a>
+			</Link>
 		</Layout>
 	)
 }
