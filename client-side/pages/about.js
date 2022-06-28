@@ -8,12 +8,12 @@ export default function AboutPage() {
 			<div className={styles.about}>
 				<h1>About This Website</h1>
 
-				<h3>If you are a non-registered user:</h3>
+				{/* <h3>If you are a non-registered user:</h3>
 				<p></p>
 
 				<h3>If you are a registered user:</h3>
 				<p></p>
-				<br />
+				<br /> */}
 				<h1> Disclaimer: </h1>
 
 				<p>
