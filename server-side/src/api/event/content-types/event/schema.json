@@ -1,0 +1,65 @@
+{
+  "kind": "collectionType",
+  "collectionName": "events",
+  "info": {
+    "singularName": "event",
+    "pluralName": "events",
+    "displayName": "events",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": false
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "name"
+    },
+    "venue": {
+      "type": "string",
+      "required": false
+    },
+    "address": {
+      "type": "string",
+      "required": false
+    },
+    "theme": {
+      "type": "string",
+      "required": false
+    },
+    "date": {
+      "type": "datetime",
+      "required": false
+    },
+    "time": {
+      "type": "string",
+      "required": false
+    },
+    "description": {
+      "type": "richtext",
+      "required": false
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "user": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user",
+      "inversedBy": "events"
+    }
+  }
+}
